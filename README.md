@@ -1,1 +1,2 @@
 # Dotz
+print "hello, world"
